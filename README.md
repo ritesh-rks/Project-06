@@ -28,7 +28,7 @@ This project is a basic UI webpage which is created by using HTML and CSS. It's 
 
 # Netlify Link
 
-[Project - 06](https://project-05-rk.netlify.app/)
+[Project - 06](https://project-06-rk.netlify.app/)
 
 # Thumbnail
 
